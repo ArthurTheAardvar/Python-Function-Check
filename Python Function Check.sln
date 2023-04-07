@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python Function Check", "Python Function Check\Python Function Check.pyproj", "{84EA55C4-22A1-4EA2-9E00-850479DF2F55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84EA55C4-22A1-4EA2-9E00-850479DF2F55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84EA55C4-22A1-4EA2-9E00-850479DF2F55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8AAD152-1C9C-4F30-AE3E-42A9D15B26F4}
+	EndGlobalSection
+EndGlobal
